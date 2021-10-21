@@ -1,0 +1,12 @@
+.modal a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+.modal a:hover{
+    font-size: 20px;
+    color: violet;
+    font-style: italic;
+    font-weight: bold;
+    border: 1px solid violet;
+    border-radius: 5px;
+}
